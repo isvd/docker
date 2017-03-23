@@ -1,4 +1,4 @@
-# A basic apache server. To use either add or bind mount content under /var/www
+# A basic apache server. To use either add or bind mount content under /var/www  2.0
 FROM ubuntu:12.04
 
 MAINTAINER Kimbro Staken version: 0.1
